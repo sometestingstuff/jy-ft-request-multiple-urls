@@ -1,0 +1,16 @@
+{
+  "name": "jy-ft-request-multiple-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "test": "jest --env=node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "jest": "^26.6.3"
+  }
+}
