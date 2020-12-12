@@ -2,7 +2,7 @@
  * @jest-environment node
  */
 
-const app = require('./index') ();
+const app = require('./index');
 
 const defaultUrls = [
 	'https://ft-tech-test-example.s3-eu-west-1.amazonaws.com/ftse-fsi.json',

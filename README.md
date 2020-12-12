@@ -31,3 +31,4 @@ const urls = [
 const responses = await app.get( urls );
 
 ```
+```responses``` will contain the result from each URL in the order of the array position.  

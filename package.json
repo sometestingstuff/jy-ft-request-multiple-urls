@@ -1,10 +1,10 @@
 {
   "name": "jy-ft-request-multiple-urls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-	  "test": "jest --env=node"
+    "test": "jest --env=node"
   },
   "keywords": [],
   "author": "",
